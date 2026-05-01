@@ -85,7 +85,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/modern-commercial-building-exterior-night-with-architectural-lighting_84443-74857.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/modern-commercial-building-exterior-night-with-architectural-lighting_84443-74857.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       tagIcon={Shield}
       avatars={[
@@ -151,7 +151,7 @@ export default function LandingPage() {
           title: "Support",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/facade-modern-urban-building_122409-5.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/facade-modern-urban-building_122409-5.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -172,7 +172,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/sun-shining-architects-wearing-helmets_23-2147702489.jpg",
             imageAlt: "Tools",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-commercial-building-exterior-night-with-architectural-lighting_84443-74857.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-commercial-building-exterior-night-with-architectural-lighting_84443-74857.jpg?_wi=2",
           imageAlt: "professional roofing worker construction",
         },
         {
@@ -186,7 +186,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/luxury-living-room-with-city-skyline-view-generative-ai_188544-46252.jpg",
             imageAlt: "Terrace",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/facade-modern-urban-building_122409-5.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/facade-modern-urban-building_122409-5.jpg?_wi=2",
           imageAlt: "professional roofing worker construction",
         },
         {
